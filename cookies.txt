@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+sochillpanel.com	TRUE	/	FALSE	1999999999	PHPSESSID	b7aae848bcec78b8c42c5555b22453cd
+sochillpanel.com	TRUE	/	FALSE	1999999999	_csrf	da81e361cdeae5694eeda157672d75f787513daa6ddb87864b8a64dc1f7d69c1a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%228FpaBNLyfZq2fPVXerd8iVvZaPwSqTTC%22%3B%7D
+
